@@ -1,7 +1,7 @@
 ## 📌 Table of Contents
 
 - [Project Overview](#project-overview)
-- [Workflow](#workflow)
+- [Workflow](#-workflow)
 
 ## 🧾 Project Overview
 
